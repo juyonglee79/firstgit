@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Hello world!");
+	printf("Hello world! no vim");
 	printf("EAt");
 	printf("hey?");
 	
